@@ -1,7 +1,5 @@
 # -Airline-Data-Analysis-Trends-in-Flight-Performance-and-Passenger-Insights
 
-# Airline Passenger Data Analysis Project
-
 ## Overview
 
 This project analyzes an airline dataset to explore passenger demographics, flight statuses, and seasonal trends. The goal is to identify patterns such as gender and nationality distribution, busy flight days/months, and the prevalence of flight delays or cancellations. The analysis is performed using Python libraries like `pandas`, `numpy`, `matplotlib`, and `seaborn`, and visualized through various charts.
